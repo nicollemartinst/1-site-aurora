@@ -9,7 +9,8 @@
     font-family:"Playwrite AU QLD", cursive;
 }
     html{
-        font-size:62.5%
+        font-size:62.5%;
+        scroll-padding-top: 80px;
     }
     body{
         width: 100%;
